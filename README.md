@@ -1,6 +1,6 @@
 # projeto-super-frontend
 
-Projeto acadêmico desenvolvido em equipe.
+Projeto acadêmico desenvolvido em equipe.(foi realizado em 2024)
 
 ## Atuação
 - Front-end
