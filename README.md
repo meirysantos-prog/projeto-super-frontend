@@ -23,5 +23,5 @@ das telas da aplicação.
 
 ## Imagens do Projeto
 As imagens do projeto estão disponíveis nas pastas:
-- /figma — protótipos das telas
-- /interface — interface da aplicação em execução
+- /figma - protótipos 
+- /Tkinter - treinamento de como usar o tkinter
